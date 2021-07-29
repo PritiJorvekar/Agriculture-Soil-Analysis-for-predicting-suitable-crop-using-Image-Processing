@@ -1,0 +1,7 @@
+python == 3.8.0
+tensorflow == 2.4.0
+keras == 2.4.3
+flask == 1.1.2
+pillow == 8.1.0
+werkzeug == 0.15.6
+opencv == 4.5.1
